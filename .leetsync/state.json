@@ -1,9 +1,9 @@
 {
   "v": 1,
-  "updatedAt": 1795631272653,
+  "updatedAt": 1795631336166,
   "devices": {
     "19167371-dff0-442a-8df3-22449d0543b2": {
-      "lastSeen": 1795631272166
+      "lastSeen": 1795631335658
     }
   },
   "problems": {},
@@ -17,7 +17,7 @@
   "identity": {
     "installId": "2f897ead-8377-4cb6-8ade-bffff01104f8",
     "at": 1795630817102,
-    "name": null,
-    "nameAt": 0
+    "name": "Mr_Krama",
+    "nameAt": 1795631272573
   }
 }
