@@ -1,9 +1,9 @@
 {
   "v": 1,
-  "updatedAt": 1795680817215,
+  "updatedAt": 1795680847646,
   "devices": {
     "19167371-dff0-442a-8df3-22449d0543b2": {
-      "lastSeen": 1795680816583
+      "lastSeen": 1795680847295
     }
   },
   "problems": {
@@ -24,7 +24,27 @@
         "Hash Table"
       ],
       "title": "Two Sum",
-      "at": 1795680816583
+      "at": 1795680847295
+    },
+    "217": {
+      "attempts": 3,
+      "bestMemory": "108.8 MB (Beats 13%)",
+      "bestRuntime": "13 ms (Beats 99%)",
+      "date": "2026-11-26",
+      "difficulty": "Easy",
+      "firstSolvedOn": "2026-11-26",
+      "folderName": "0217-Contains-Duplicate",
+      "language": "Java",
+      "number": 217,
+      "slug": "contains-duplicate",
+      "solutionCount": 1,
+      "tags": [
+        "Array",
+        "Hash Table",
+        "Sorting"
+      ],
+      "title": "Contains Duplicate",
+      "at": 1795680847295
     }
   },
   "achievements": {
@@ -33,11 +53,12 @@
   },
   "sheets": {},
   "days": [
-    "2026-11-25"
+    "2026-11-25",
+    "2026-11-26"
   ],
   "bests": {
-    "longestStreak": 1,
-    "pushes": 2
+    "longestStreak": 2,
+    "pushes": 3
   },
   "identity": {
     "installId": "2f897ead-8377-4cb6-8ade-bffff01104f8",
