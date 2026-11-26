@@ -1,9 +1,9 @@
 {
   "v": 1,
-  "updatedAt": 1795686450855,
+  "updatedAt": 1795686544011,
   "devices": {
     "19167371-dff0-442a-8df3-22449d0543b2": {
-      "lastSeen": 1795686450250
+      "lastSeen": 1795686543463
     }
   },
   "problems": {
@@ -24,7 +24,7 @@
         "Hash Table"
       ],
       "title": "Two Sum",
-      "at": 1795686450250
+      "at": 1795686543463
     },
     "9": {
       "attempts": 1,
@@ -42,7 +42,7 @@
         "Math"
       ],
       "title": "Palindrome Number",
-      "at": 1795686450250
+      "at": 1795686543463
     },
     "49": {
       "attempts": 1,
@@ -63,7 +63,27 @@
         "Sorting"
       ],
       "title": "Group Anagrams",
-      "at": 1795686450250
+      "at": 1795686543463
+    },
+    "110": {
+      "attempts": 1,
+      "bestMemory": "44.7 MB (Beats 98%)",
+      "bestRuntime": "1 ms (Beats 75%)",
+      "date": "2026-11-26",
+      "difficulty": "Easy",
+      "firstSolvedOn": "2026-11-26",
+      "folderName": "0110-Balanced-Binary-Tree",
+      "language": "Java",
+      "number": 110,
+      "slug": "balanced-binary-tree",
+      "solutionCount": 1,
+      "tags": [
+        "Tree",
+        "Depth-First Search",
+        "Binary Tree"
+      ],
+      "title": "Balanced Binary Tree",
+      "at": 1795686543463
     },
     "217": {
       "attempts": 3,
@@ -83,7 +103,7 @@
         "Sorting"
       ],
       "title": "Contains Duplicate",
-      "at": 1795686450250
+      "at": 1795686543463
     },
     "242": {
       "attempts": 3,
@@ -103,10 +123,11 @@
         "Sorting"
       ],
       "title": "Valid Anagram",
-      "at": 1795686450250
+      "at": 1795686543463
     }
   },
   "achievements": {
+    "bookworm": 1795686462084,
     "first_blood": 1795631347941,
     "night_owl": 1795631418869
   },
@@ -117,7 +138,7 @@
   ],
   "bests": {
     "longestStreak": 2,
-    "pushes": 7
+    "pushes": 8
   },
   "identity": {
     "installId": "2f897ead-8377-4cb6-8ade-bffff01104f8",
