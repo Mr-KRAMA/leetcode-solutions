@@ -1,9 +1,9 @@
 {
   "v": 1,
-  "updatedAt": 1795687225193,
+  "updatedAt": 1795687446949,
   "devices": {
     "19167371-dff0-442a-8df3-22449d0543b2": {
-      "lastSeen": 1795687224644
+      "lastSeen": 1795687446422
     }
   },
   "problems": {
@@ -24,7 +24,7 @@
         "Hash Table"
       ],
       "title": "Two Sum",
-      "at": 1795687224644
+      "at": 1795687446422
     },
     "9": {
       "attempts": 1,
@@ -42,7 +42,7 @@
         "Math"
       ],
       "title": "Palindrome Number",
-      "at": 1795687224644
+      "at": 1795687446422
     },
     "49": {
       "attempts": 1,
@@ -63,7 +63,7 @@
         "Sorting"
       ],
       "title": "Group Anagrams",
-      "at": 1795687224644
+      "at": 1795687446422
     },
     "110": {
       "attempts": 2,
@@ -83,7 +83,26 @@
         "Binary Tree"
       ],
       "title": "Balanced Binary Tree",
-      "at": 1795687224644
+      "at": 1795687446422
+    },
+    "121": {
+      "attempts": 3,
+      "bestMemory": "93.6 MB (Beats 93%)",
+      "bestRuntime": "1 ms (Beats 100%)",
+      "date": "2026-11-26",
+      "difficulty": "Easy",
+      "firstSolvedOn": "2026-11-26",
+      "folderName": "0121-Best-Time-to-Buy-and-Sell-Stock",
+      "language": "Java",
+      "number": 121,
+      "slug": "best-time-to-buy-and-sell-stock",
+      "solutionCount": 1,
+      "tags": [
+        "Array",
+        "Dynamic Programming"
+      ],
+      "title": "Best Time to Buy and Sell Stock",
+      "at": 1795687446422
     },
     "217": {
       "attempts": 3,
@@ -103,7 +122,7 @@
         "Sorting"
       ],
       "title": "Contains Duplicate",
-      "at": 1795687224644
+      "at": 1795687446422
     },
     "242": {
       "attempts": 3,
@@ -123,7 +142,7 @@
         "Sorting"
       ],
       "title": "Valid Anagram",
-      "at": 1795687224644
+      "at": 1795687446422
     }
   },
   "achievements": {
@@ -138,7 +157,7 @@
   ],
   "bests": {
     "longestStreak": 2,
-    "pushes": 9
+    "pushes": 10
   },
   "identity": {
     "installId": "2f897ead-8377-4cb6-8ade-bffff01104f8",
