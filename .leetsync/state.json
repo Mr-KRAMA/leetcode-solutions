@@ -1,9 +1,9 @@
 {
   "v": 1,
-  "updatedAt": 1795802646853,
+  "updatedAt": 1795802744036,
   "devices": {
     "19167371-dff0-442a-8df3-22449d0543b2": {
-      "lastSeen": 1795802646421
+      "lastSeen": 1795802743646
     }
   },
   "problems": {
@@ -24,7 +24,7 @@
         "Hash Table"
       ],
       "title": "Two Sum",
-      "at": 1795802646421
+      "at": 1795802743646
     },
     "9": {
       "attempts": 1,
@@ -42,7 +42,7 @@
         "Math"
       ],
       "title": "Palindrome Number",
-      "at": 1795802646421
+      "at": 1795802743646
     },
     "49": {
       "attempts": 1,
@@ -63,7 +63,7 @@
         "Sorting"
       ],
       "title": "Group Anagrams",
-      "at": 1795802646421
+      "at": 1795802743646
     },
     "58": {
       "attempts": 3,
@@ -81,7 +81,7 @@
         "String"
       ],
       "title": "Length of Last Word",
-      "at": 1795802646421
+      "at": 1795802743646
     },
     "66": {
       "attempts": 1,
@@ -100,7 +100,7 @@
         "Math"
       ],
       "title": "Plus One",
-      "at": 1795802646421
+      "at": 1795802743646
     },
     "110": {
       "attempts": 2,
@@ -120,7 +120,7 @@
         "Binary Tree"
       ],
       "title": "Balanced Binary Tree",
-      "at": 1795802646421
+      "at": 1795802743646
     },
     "121": {
       "attempts": 3,
@@ -139,7 +139,7 @@
         "Dynamic Programming"
       ],
       "title": "Best Time to Buy and Sell Stock",
-      "at": 1795802646421
+      "at": 1795802743646
     },
     "122": {
       "attempts": 2,
@@ -159,7 +159,7 @@
         "Greedy"
       ],
       "title": "Best Time to Buy and Sell Stock II",
-      "at": 1795802646421
+      "at": 1795802743646
     },
     "125": {
       "attempts": 3,
@@ -178,7 +178,7 @@
         "String"
       ],
       "title": "Valid Palindrome",
-      "at": 1795802646421
+      "at": 1795802743646
     },
     "136": {
       "attempts": 2,
@@ -197,7 +197,7 @@
         "Bit Manipulation"
       ],
       "title": "Single Number",
-      "at": 1795802646421
+      "at": 1795802743646
     },
     "175": {
       "attempts": 1,
@@ -215,7 +215,25 @@
         "Database"
       ],
       "title": "Combine Two Tables",
-      "at": 1795802646421
+      "at": 1795802743646
+    },
+    "181": {
+      "attempts": 1,
+      "bestMemory": "0B (Beats 100%)",
+      "bestRuntime": "428 ms (Beats 85%)",
+      "date": "2026-11-27",
+      "difficulty": "Easy",
+      "firstSolvedOn": "2026-11-27",
+      "folderName": "0181-Employees-Earning-More-Than-Their-Managers",
+      "language": "Oracle SQL",
+      "number": 181,
+      "slug": "employees-earning-more-than-their-managers",
+      "solutionCount": 1,
+      "tags": [
+        "Database"
+      ],
+      "title": "Employees Earning More Than Their Managers",
+      "at": 1795802743646
     },
     "217": {
       "attempts": 3,
@@ -235,7 +253,7 @@
         "Sorting"
       ],
       "title": "Contains Duplicate",
-      "at": 1795802646421
+      "at": 1795802743646
     },
     "242": {
       "attempts": 3,
@@ -255,7 +273,7 @@
         "Sorting"
       ],
       "title": "Valid Anagram",
-      "at": 1795802646421
+      "at": 1795802743646
     },
     "704": {
       "attempts": 2,
@@ -274,7 +292,7 @@
         "Binary Search"
       ],
       "title": "Binary Search",
-      "at": 1795802646421
+      "at": 1795802743646
     }
   },
   "achievements": {
@@ -293,7 +311,7 @@
   ],
   "bests": {
     "longestStreak": 3,
-    "pushes": 19
+    "pushes": 20
   },
   "identity": {
     "installId": "2f897ead-8377-4cb6-8ade-bffff01104f8",
