@@ -1,9 +1,9 @@
 {
   "v": 1,
-  "updatedAt": 1795800286007,
+  "updatedAt": 1795800546922,
   "devices": {
     "19167371-dff0-442a-8df3-22449d0543b2": {
-      "lastSeen": 1795800285489
+      "lastSeen": 1795800546431
     }
   },
   "problems": {
@@ -24,7 +24,7 @@
         "Hash Table"
       ],
       "title": "Two Sum",
-      "at": 1795800285489
+      "at": 1795800546431
     },
     "9": {
       "attempts": 1,
@@ -42,7 +42,7 @@
         "Math"
       ],
       "title": "Palindrome Number",
-      "at": 1795800285489
+      "at": 1795800546431
     },
     "49": {
       "attempts": 1,
@@ -63,7 +63,7 @@
         "Sorting"
       ],
       "title": "Group Anagrams",
-      "at": 1795800285489
+      "at": 1795800546431
     },
     "58": {
       "attempts": 3,
@@ -81,7 +81,26 @@
         "String"
       ],
       "title": "Length of Last Word",
-      "at": 1795800285489
+      "at": 1795800546431
+    },
+    "66": {
+      "attempts": 1,
+      "bestMemory": "43 MB (Beats 52%)",
+      "bestRuntime": "0 ms (Beats 100%)",
+      "date": "2026-11-27",
+      "difficulty": "Easy",
+      "firstSolvedOn": "2026-11-27",
+      "folderName": "0066-Plus-One",
+      "language": "Java",
+      "number": 66,
+      "slug": "plus-one",
+      "solutionCount": 1,
+      "tags": [
+        "Array",
+        "Math"
+      ],
+      "title": "Plus One",
+      "at": 1795800546431
     },
     "110": {
       "attempts": 2,
@@ -101,7 +120,7 @@
         "Binary Tree"
       ],
       "title": "Balanced Binary Tree",
-      "at": 1795800285489
+      "at": 1795800546431
     },
     "121": {
       "attempts": 3,
@@ -120,7 +139,7 @@
         "Dynamic Programming"
       ],
       "title": "Best Time to Buy and Sell Stock",
-      "at": 1795800285489
+      "at": 1795800546431
     },
     "122": {
       "attempts": 2,
@@ -140,7 +159,7 @@
         "Greedy"
       ],
       "title": "Best Time to Buy and Sell Stock II",
-      "at": 1795800285489
+      "at": 1795800546431
     },
     "125": {
       "attempts": 3,
@@ -159,7 +178,7 @@
         "String"
       ],
       "title": "Valid Palindrome",
-      "at": 1795800285489
+      "at": 1795800546431
     },
     "217": {
       "attempts": 3,
@@ -179,7 +198,7 @@
         "Sorting"
       ],
       "title": "Contains Duplicate",
-      "at": 1795800285489
+      "at": 1795800546431
     },
     "242": {
       "attempts": 3,
@@ -199,7 +218,7 @@
         "Sorting"
       ],
       "title": "Valid Anagram",
-      "at": 1795800285489
+      "at": 1795800546431
     },
     "704": {
       "attempts": 2,
@@ -218,12 +237,13 @@
         "Binary Search"
       ],
       "title": "Binary Search",
-      "at": 1795800285489
+      "at": 1795800546431
     }
   },
   "achievements": {
     "bookworm": 1795686462084,
     "deca": 1795786848454,
+    "easy_rider": 1795800296981,
     "first_blood": 1795631347941,
     "night_owl": 1795631418869,
     "on_fire": 1795786848454
@@ -236,7 +256,7 @@
   ],
   "bests": {
     "longestStreak": 3,
-    "pushes": 15
+    "pushes": 16
   },
   "identity": {
     "installId": "2f897ead-8377-4cb6-8ade-bffff01104f8",
