@@ -3,7 +3,7 @@
 <h1>LeetCode Solutions</h1>
 <p><em>Automatically synced with every accepted submission</em></p>
 
-![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-11%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-9%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-2%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-0%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
+![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-12%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-10%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-2%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-0%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset=".leetsync/stats-dark.svg">
@@ -33,6 +33,7 @@
 | 9 | [Palindrome Number](problems/0009-Palindrome-Number) | 🟩 Easy | `Java` | 2026-11-26 |
 | 49 | [Group Anagrams](problems/0049-Group-Anagrams) | 🟧 Medium | `Java` | 2026-11-26 |
 | 58 | [Length of Last Word](problems/0058-Length-of-Last-Word) | 🟩 Easy | `Java` | 2026-11-27 |
+| 66 | [Plus One](problems/0066-Plus-One) | 🟩 Easy | `Java` | 2026-11-27 |
 | 110 | [Balanced Binary Tree](problems/0110-Balanced-Binary-Tree) | 🟩 Easy | `Java` | 2026-11-26 |
 | 121 | [Best Time to Buy and Sell Stock](problems/0121-Best-Time-to-Buy-and-Sell-Stock) | 🟩 Easy | `Java` | 2026-11-26 |
 | 122 | [Best Time to Buy and Sell Stock II](problems/0122-Best-Time-to-Buy-and-Sell-Stock-II) | 🟧 Medium | `Java` | 2026-11-26 |
